@@ -1,5 +1,0 @@
-Flask
-gunicorn
-pymupdf
-reportlab
-web: gunicorn app:app
